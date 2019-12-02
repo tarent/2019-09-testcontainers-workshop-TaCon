@@ -16,7 +16,7 @@
 
 ## Conference
 
-* [TACON Leipzig 2019](https://tacon-konferenz.de/)
+* [tarent Tech Friday](https://confluence.tarent.de/display/TEVENT/Tech+Friday+2019)
 
 ## Slides
 
