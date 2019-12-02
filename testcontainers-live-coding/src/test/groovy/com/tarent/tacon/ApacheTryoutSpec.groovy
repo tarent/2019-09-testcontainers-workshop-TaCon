@@ -1,23 +1,12 @@
 package com.tarent.tacon
 
-import org.testcontainers.containers.FixedHostPortGenericContainer
-import org.testcontainers.containers.GenericContainer
-import org.testcontainers.containers.wait.strategy.Wait
-import org.testcontainers.spock.Testcontainers
-import spock.lang.Shared
-import spock.lang.Specification
+class ApacheTryoutSpec {
 
-@Testcontainers
-class ApacheTryoutSpec extends  Specification {
+    //GenericContainer container = new GenericContainer("httpd").waitingFor(Wait.forHttp("/"))
 
-    @Shared
-    GenericContainer container = new FixedHostPortGenericContainer("httpd")
-            .withFixedExposedPort(8080,80)
-            .waitingFor(Wait.forHttp("/"))
     def "can access apache"() {
         given:
-        String url = "http://localhost:8080"
-
+        String url = "???"
 
         expect:
         url =~ /http:\/\/.*:\d+/
