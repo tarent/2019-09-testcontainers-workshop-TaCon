@@ -20,7 +20,7 @@
 
 ## Slides
 
-* [2019-09-TacCon-Testcontainers.pdf](2019-09-TacCon-Testcontainers.pdf)
+* [2019-12-TechFriday-Testcontainers.pdf](2019-12-TechFriday-Testcontainers.pdf)
 
 ## Code
 
@@ -30,3 +30,9 @@
 * [youtrain](youtrain/) Frontend Beispielprojekt "YouTrain"
 * [youtrain-integrationtest](youtrain-integrationtest/) Integrationstest YouTrain
 * [youtrain-server](youtrain-server/) Backend Beispielprojekt "YouTrain"
+
+## Feedback
+
+please give me feedback :-) 
+
+**[https://forms.gle/MfYX587oiRLL2hUf8](https://forms.gle/MfYX587oiRLL2hUf8)**
